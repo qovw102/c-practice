@@ -1,0 +1,4 @@
+#.gitignore
+
+# ignore xxx.exe
+*.exe
