@@ -1,4 +1,4 @@
-//if,switch,goto
+//if
 #include<stdio.h>
 
 int main(void)
